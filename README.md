@@ -1,6 +1,6 @@
 ## Third Person Game
 
-**This project was developed using Unreal Engine 5.2 with C++ and Blueprint features.**
+**This project was created using Unreal Engine 5.2 with C++ and Blueprint features.**
 <br />
  
 <img src="Images/pic01.png" width=800>
